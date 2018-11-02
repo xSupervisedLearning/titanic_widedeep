@@ -1,0 +1,2 @@
+# titanic_widedeep
+使用TensorFlow estimator实现的wide&deep模型，并用kaggle titanic数据集进行实验
